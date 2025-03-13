@@ -21,7 +21,7 @@ it also provides fast advanced methods like prefix search.
 TO USE
 =======
 
-```
+```console
 bash update_cpp.sh
 ```
 
