@@ -1,16 +1,13 @@
 TO USE
 =======
 
-```bash
+```
 bash update_cpp.sh
 python setup.py install
 ```
+
 DAWG
 ====
-
-.. image:: https://travis-ci.org/pytries/DAWG.png?branch=master
-    :target: https://travis-ci.org/pytries/DAWG
-
 This package provides DAWG(DAFSA_)-based dictionary-like
 read-only objects for Python (2.x and 3.x).
 
