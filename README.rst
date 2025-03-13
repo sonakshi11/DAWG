@@ -17,6 +17,13 @@ it also provides fast advanced methods like prefix search.
 * Source code: https://github.com/pytries/DAWG
 * Issue tracker: https://github.com/pytries/DAWG/issues
 
+
+TO USE
+=======
+
+```bash
+bash update_cpp.sh
+
 License
 =======
 
