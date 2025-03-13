@@ -4,7 +4,7 @@ TO USE
 ```bash
 bash update_cpp.sh
 python setup.py install
-
+```
 DAWG
 ====
 
